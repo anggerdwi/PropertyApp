@@ -11,7 +11,9 @@ import Footer from '@/components/layout/Footer';
 
 export default function Home() {
     return (
+
         <>
+      <Head title="JW Property" />
         <Navbar />
         <Hero />
         <Services />
